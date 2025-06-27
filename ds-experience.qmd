@@ -1,7 +1,7 @@
 ---
 title: "Data Science Experience"
-subtitle: "<Name of the Experience>"
-author: "Add your name here"
+subtitle: "From Data Confusion to Data Intelligence"
+author: "Amit Chawla"
 categories: "Lab"
 
 ---
